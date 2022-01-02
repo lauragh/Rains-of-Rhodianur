@@ -6,7 +6,7 @@ El jugador tomará el control de un campesino cuya aldea acaba de ser atacada po
 ![portada](https://user-images.githubusercontent.com/78486115/118461310-d7e4a880-b6fd-11eb-992a-c2899afcbe35.png)
 
 # Tráiler
-[![Alt text](https://www.youtube.com/watch?v=spWv-iFPOjI&ab_channel=AlfredoPerezPinedo)
+https://www.youtube.com/watch?v=spWv-iFPOjI&ab_channel=AlfredoPerezPinedo
 
 
 
